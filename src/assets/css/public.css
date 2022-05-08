@@ -1,0 +1,9 @@
+.mt-20{
+    margin-top: 20px;
+}
+.text-title{
+
+    background: -webkit-linear-gradient(bottom, rgb(99, 219, 255), #fff);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
